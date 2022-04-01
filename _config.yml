@@ -1,2 +1,4 @@
 name: Daniel Li, MSc Student
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
