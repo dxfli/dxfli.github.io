@@ -36,12 +36,12 @@ h3 {
 
 p {
     font-size: 18px;
-    line-height: 1.1em;
+    line-height: 0.8em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 16px;
 }
 
 ul.posts { 
